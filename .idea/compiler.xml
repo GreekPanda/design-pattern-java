@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="prototype" />
+        <module name="bridge" />
         <module name="builder" />
         <module name="adapter" />
       </profile>

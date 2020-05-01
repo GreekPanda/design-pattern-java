@@ -41,7 +41,7 @@ class AnnotationHandlerAdapter implements  HandlerAdapter {
 
     @Override
     public boolean supports(Object handler) {
-        return (handler instanceof AnnotationHandlerAdapter);
+        return (handler instanceof AnnotationController);
     }
 
     @Override
