@@ -1,4 +1,4 @@
-package com.github.greekpanda.voltage;
+package com.github.greekpanda.objectvoltage;
 
 /**
  * @author GreePanda

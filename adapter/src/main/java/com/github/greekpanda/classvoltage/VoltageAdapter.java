@@ -1,4 +1,4 @@
-package com.github.greekpanda.voltage;
+package com.github.greekpanda.classvoltage;
 
 /**
  * @author GreePanda
@@ -7,6 +7,7 @@ package com.github.greekpanda.voltage;
  */
 public class VoltageAdapter extends Voltage220V implements IVoltage5V {
 
+    //使用的是继承关系
     @Override
     public int output5V() {
         int src = output220V();
