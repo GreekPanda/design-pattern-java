@@ -1,4 +1,4 @@
-package com.github.greekpanda.objectvoltage;
+package com.github.greekpanda.classadapter;
 
 /**
  * @author GreePanda
@@ -8,6 +8,6 @@ package com.github.greekpanda.objectvoltage;
 public class AdapterMain {
     public static void main(String[] args) {
         CellPhone cellPhone = new CellPhone();
-        cellPhone.charging(new VoltageAdapter(new Voltage220V()));
+        cellPhone.charging(new VoltageAdapter());
     }
 }

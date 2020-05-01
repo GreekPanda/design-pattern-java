@@ -1,4 +1,4 @@
-package com.github.greekpanda.classvoltage;
+package com.github.greekpanda.classadapter;
 
 /**
  * @author GreePanda

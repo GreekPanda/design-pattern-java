@@ -1,4 +1,4 @@
-package com.github.greekpanda.objectvoltage;
+package com.github.greekpanda.classadapter;
 
 /**
  * @author GreePanda
@@ -8,9 +8,9 @@ package com.github.greekpanda.objectvoltage;
 public class CellPhone {
     public void charging(IVoltage5V voltage5V) {
 
-        if (voltage5V.output5V() == 5) {
+        if(voltage5V.output5V() ==5) {
             System.out.println("It can charge");
-        } else if (voltage5V.output5V() > 5) {
+        } else if(voltage5V.output5V() > 5) {
             System.out.println("Higher than 5, it can't charge");
         }
     }
