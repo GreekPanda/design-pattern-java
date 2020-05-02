@@ -15,6 +15,7 @@
       <module>decorator</module>
       <module>compsite</module>
       <module>facade</module>
+    <module>Flyweight</module>
   </modules>
   <packaging>pom</packaging>
 
