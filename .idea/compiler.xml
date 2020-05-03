@@ -11,6 +11,7 @@
         <module name="composite" />
         <module name="decorator" />
         <module name="template" />
+        <module name="command" />
         <module name="adapter" />
         <module name="builder" />
         <module name="Flyweight" />
