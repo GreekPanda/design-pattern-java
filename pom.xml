@@ -19,6 +19,7 @@
       <module>Proxy</module>
       <module>template</module>
       <module>command</module>
+      <module>visitor</module>
   </modules>
   <packaging>pom</packaging>
 
