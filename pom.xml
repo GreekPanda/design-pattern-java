@@ -13,9 +13,11 @@
     <module>adapter</module>
     <module>bridge</module>
       <module>decorator</module>
-      <module>compsite</module>
+      <module>composite</module>
       <module>facade</module>
     <module>Flyweight</module>
+      <module>Proxy</module>
+      <module>template</module>
   </modules>
   <packaging>pom</packaging>
 
