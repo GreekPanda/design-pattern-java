@@ -16,6 +16,7 @@
         <module name="template" />
         <module name="builder" />
         <module name="Flyweight" />
+        <module name="iterator" />
         <module name="prototype" />
         <module name="adapter" />
       </profile>
