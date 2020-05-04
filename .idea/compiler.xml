@@ -7,18 +7,19 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="bridge" />
-        <module name="visitor" />
-        <module name="Proxy" />
-        <module name="composite" />
         <module name="decorator" />
-        <module name="facade" />
-        <module name="command" />
-        <module name="template" />
         <module name="builder" />
-        <module name="Flyweight" />
-        <module name="iterator" />
-        <module name="prototype" />
         <module name="adapter" />
+        <module name="composite" />
+        <module name="Flyweight" />
+        <module name="Proxy" />
+        <module name="facade" />
+        <module name="iterator" />
+        <module name="command" />
+        <module name="visitor" />
+        <module name="template" />
+        <module name="observer" />
+        <module name="prototype" />
       </profile>
     </annotationProcessing>
   </component>
