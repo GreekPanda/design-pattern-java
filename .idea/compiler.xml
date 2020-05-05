@@ -19,6 +19,7 @@
         <module name="iterator" />
         <module name="command" />
         <module name="memento" />
+        <module name="state" />
         <module name="visitor" />
         <module name="template" />
         <module name="observer" />
