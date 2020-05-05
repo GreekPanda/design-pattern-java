@@ -17,6 +17,7 @@
         <module name="facade" />
         <module name="iterator" />
         <module name="command" />
+        <module name="memento" />
         <module name="visitor" />
         <module name="template" />
         <module name="observer" />

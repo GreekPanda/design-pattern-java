@@ -23,6 +23,7 @@
       <module>iterator</module>
     <module>observer</module>
     <module>mediator</module>
+    <module>memento</module>
   </modules>
   <packaging>pom</packaging>
 
