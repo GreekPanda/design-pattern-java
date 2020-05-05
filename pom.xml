@@ -26,6 +26,7 @@
     <module>memento</module>
     <module>interpreter</module>
     <module>state</module>
+    <module>strategy</module>
   </modules>
   <packaging>pom</packaging>
 
