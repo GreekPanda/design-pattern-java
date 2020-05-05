@@ -24,6 +24,7 @@
     <module>observer</module>
     <module>mediator</module>
     <module>memento</module>
+    <module>interpreter</module>
   </modules>
   <packaging>pom</packaging>
 
